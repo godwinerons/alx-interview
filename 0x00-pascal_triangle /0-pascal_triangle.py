@@ -1,4 +1,4 @@
-#!/usr/bin/python30
+#!/usr/bin/python3
 """Pascal triangle"""
 
 
