@@ -1,1 +1,19 @@
-[README (1).md](https://github.com/godwinerons/alx-interview/files/12064998/README.1.md)
+    +------------------+
+                    |  Start function  |
+                    +------------------+
+                             |
+                             v
+                    +--------------------+
+                    | Set min_operations |
+                    |      to zero       |
+                    +--------------------+
+                            |
+                            v
+                    +------------------+
+                    | Check if n <= 1  |
+                    +------------------+
+                            |
+                            v
+            +--+<---+ If true, return 0
+            |  |
+            |  v
